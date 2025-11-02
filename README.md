@@ -15,7 +15,19 @@ This repository contains simple AI projects that I created as a beginner to prac
   - Keras and TensorFlow
 - **Status**: ✅ Completed
 
-### 2. SpaceShip Titanic *(Coming Soon)*
+
+### 2. Fashion MNIST Classifier
+
+- **Dataset**: [Fashion MNIST Dataset (Kaggle)]([https://www.kaggle.com/datasets/hojjatk/mnist-dataset?resource=download](https://www.kaggle.com/datasets/zalando-research/fashionmnist))
+- **Description**: A deep learning model built using Keras to classify grayscale images of clothing items (e.g., shirts, shoes, bags) from the Fashion MNIST dataset.
+- **Skills Practiced**:
+  - Neural Networks
+  - Computer Vision
+  - Keras and TensorFlow
+  - Model Evaluation
+- **Status**: ✅ Completed
+
+### 3. SpaceShip Titanic *(Coming Soon)*
 
 - **Dataset**: TBA
 - **Description**: A future project based on the Spaceship Titanic dataset, aiming to build a classification model.
