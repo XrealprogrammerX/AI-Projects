@@ -18,7 +18,7 @@ This repository contains simple AI projects that I created as a beginner to prac
 
 ### 2. Fashion MNIST Classifier
 
-- **Dataset**: [Fashion MNIST Dataset (Kaggle)]([https://www.kaggle.com/datasets/zalando-research/fashionmnist])
+- **Dataset**: [Fashion MNIST Dataset (Kaggle)](https://www.kaggle.com/datasets/zalando-research/fashionmnist)
 - **Description**: A deep learning model built using Keras to classify grayscale images of clothing items (e.g., shirts, shoes, bags) from the Fashion MNIST dataset.
 - **Skills Practiced**:
   - Neural Networks
