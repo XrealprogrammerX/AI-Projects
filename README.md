@@ -27,7 +27,19 @@ This repository contains simple AI projects that I created as a beginner to prac
   - Model Evaluation
 - **Status**: ✅ Completed
 
-### 3. SpaceShip Titanic *(Coming Soon)*
+### 3. Breast Cancer
+
+- **Dataset**: [Breast Cancer Wisconsin (Diagnostic) DataSet (Kaggle)](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data)
+- **Description**: A machine learning project focused on classifying tumors as malignant or benign based on features computed from breast mass cell nuclei. Numeric Data is trained on a CNN Model
+- **Skills Practiced**:
+  - Neural Networks
+  - Convolutional Neural Network Model
+  - Computer Vision
+  - Keras and TensorFlow
+  - Model Evaluation
+- **Status**: ✅ Completed
+
+### 4. SpaceShip Titanic *(Coming Soon)*
 
 - **Dataset**: TBA
 - **Description**: A future project based on the Spaceship Titanic dataset, aiming to build a classification model.
